@@ -23,12 +23,14 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://victorroblesweb.es/wp-content/uploads/2016/03/nodejs.png" />
+<img align="left" alt="SqlServer" width="26px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" />
+<img align="left" alt="Oracle" width="26px" src="https://cdn.onlinewebfonts.com/svg/img_248288.png" />
 <img align="left" alt="MySQL" width="26px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="C#" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png" />
+<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
 <br />
 <br />
