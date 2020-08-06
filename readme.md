@@ -15,22 +15,17 @@
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: https://i.imgur.com/9N3rErS.png (twitter icon without padding)
+[2.1]: https://i.imgur.com/nKi5p3K.png (facebook icon without padding)
+[3.1]: https://i.imgur.com/kWoCof0.png (gmail)
+[4.1]: https://i.imgur.com/kWoCof0.png (instagram icon with padding)
+[5.1]: https://i.imgur.com/ScrFR5r.png (linkedin icon with padding)
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
-
-<br />
-
+[1]: https://twitter.com/DonTouchMyTweet
+[2]: https://www.facebook.com/matias.larrondovaras
+[3]: <mailto:matias.larrondo.dev@gmail.com>
+[4]: https://www.instagram.com/dontouchmyinsta
+[5]: www.linkedin.com/in/matias-larrondo
 ### Lenguajes y herramientas:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
