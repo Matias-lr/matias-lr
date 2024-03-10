@@ -1,6 +1,5 @@
-### Hola soy matias larrondo - web developer 👋
+### Hola soy matias larrondo - fullstack developer 👋
 
 ## Soy ingeniero en informatica
--  Actualmente trabajo como ingeniero de software en mercado libre!
-- 🌱 Aprendiendo las herramientas de vanguardia 🤣
+-  Actualmente trabajo como ingeniero de software en betterfly!
 - ⚡ Otras cosas: me encanta la musica, los videojuegos y estudiar
